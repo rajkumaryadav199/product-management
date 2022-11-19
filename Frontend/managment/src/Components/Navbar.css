@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+   background:rgb(70,70,70);
+    width: 100%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.butnav{
+    background-color: rgb(176,119,141);
+    width: 15%;
+    height: 45px;
+    border-radius: 25px;
+    text-decoration-color: rgb(18, 19, 19);
+    justify-content: center;
+    color: white;
+    font-size: 15px;
+    margin-right: 30px;
+    padding: 12px;
+
+}
